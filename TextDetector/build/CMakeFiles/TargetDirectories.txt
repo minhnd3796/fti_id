@@ -1,0 +1,4 @@
+/home/minhnd/FTI.Projects/fti_id/TextDetector/build/CMakeFiles/edit_cache.dir
+/home/minhnd/FTI.Projects/fti_id/TextDetector/build/CMakeFiles/rebuild_cache.dir
+/home/minhnd/FTI.Projects/fti_id/TextDetector/build/CMakeFiles/main_save_boxes_to_file.dir
+/home/minhnd/FTI.Projects/fti_id/TextDetector/build/CMakeFiles/TextDetector.dir

@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "iostream": "cpp",
+        "slist": "cpp",
+        "initializer_list": "cpp",
+        "ratio": "cpp"
+    }
+}
